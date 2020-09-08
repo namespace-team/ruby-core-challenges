@@ -1,4 +1,6 @@
-require "spec_helper"
+def square_each_digit num
+  # Write your code here
+end
 
 describe "#square_each_digit" do
   context "it is a number" do

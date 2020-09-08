@@ -1,4 +1,4 @@
-## Factorial
+## Palindrome
 
 ## Initial Setup
 

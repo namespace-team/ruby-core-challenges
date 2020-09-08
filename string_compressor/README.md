@@ -1,4 +1,4 @@
-## Factorial
+## String Compressor
 
 ## Initial Setup
 
